@@ -1,0 +1,10 @@
+SELECT 
+    UPPER(title) AS TieuDeHoa,
+    LENGTH(title) AS SoKyTu
+FROM 
+    film;
+    
+    TieuDeHoa,SoKyTu
+ACADEMY DINOSAUR,16
+ACE GOLDFINGER,14
+ADAPTATION HOLES,16
